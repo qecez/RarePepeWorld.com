@@ -1,6 +1,6 @@
 # RarePepeWorld.com Notes
 
-These are the files used to run a website for displaying Pepe cards created on the Counterparty network.
+These are the files used to run a website that displays Pepe cards of the Counterparty network.
 It was written in Python 3 using the Flask framework. See https://flask.palletsprojects.com/en/2.2.0/
 
 ## Code Files
